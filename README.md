@@ -7,3 +7,6 @@
 - Testing with Postman
 - Testing database with Tableplus
 
+## Run containers
+- docker compose up -d db
+-  docker compose up app
